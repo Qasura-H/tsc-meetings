@@ -1,0 +1,25 @@
+name: tsc-meetings
+id: ari:cloud:compass:4c980b7e-a4bb-46d5-8aa0-f211524278f0:component/bf311a47-a9a6-41f6-87ac-41a380fbefe3/e770ed1b-5efe-435b-89bb-693a32fc5410
+description: Technical Steering Committee meeting notes, proposals, and related information
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Qasura-H/tsc-meetings
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields:
+  - name: Document Questions Samples
+    type: boolean
+    value: false
+  - name: avec andoka cloud
+    type: text
+    value: null
+  - name: collège andoka soudanais
+    type: multi_select
+    value: null
